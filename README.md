@@ -1,5 +1,6 @@
-# hoyahacks23
+# FutureSavers
 Preliminary prototype of retirement savings planner
+*made for hoyahacks 23
 
 *Inspiration*: 
 Retirement planning is an important aspect of financial planning, but it can often be complicated and overwhelming for many people. Our team has developed an Android app that uses AI to make retirement planning easy and accessible for everyone.
