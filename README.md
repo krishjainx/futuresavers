@@ -1,6 +1,14 @@
 # FutureSavers
 Preliminary prototype of retirement savings planner
 
+Based on https://github.com/krishjainx/hoyahacks23
+
+Credits:
+- Parth Shah
+- Krish Jain
+- Kyle Ho
+- HimranK Kamara
+
 *made for hoyahacks23
 
 *Inspiration*: 
